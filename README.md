@@ -7,6 +7,9 @@
 - 📫 How to reach me
 - ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80050207/203155140-e1fae815-3300-4416-bd0d-4d35b41c5010.svg) <a href="https://ar.linkedin.com/in/blas-lorenzo-8aab15189?trk=public_profile_samename_mini-profile_title">Link to my profile!</a>
   
+ <h4>Proyects</h4>
+ 
+ 🔭 i've been part of these proyect,which i mainly worked on  the front end [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 <h4>Tecnologies</h4>
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80050207/203155478-8ff218a2-1588-4675-ad00-3c7e8b840111.svg)
